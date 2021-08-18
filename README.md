@@ -1,12 +1,13 @@
 # Todo App Like Google Keep using React
 
-A React Todo list app, using React hooks, react-bootstrap with snapshot and unit tesing using jest, enzyme and testing-library/react-hooks.
+## A React Todo list app, using React hooks, react-bootstrap also added snapshot and unit tesing using Jest, Enzyme and testing-library/react-hooks.
 
-# Functional Componnet
-# React Hooks
-# Modular Code
-# Modularizing React Code
-# Seprated Business Logic and Added Tests Cases for it
+# Highlight of a Project
+### Functional Componnet
+### React Hooks
+### Modular Code
+### Modularizing React Code
+### Seprated Business Logic and Added Tests Cases for it
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

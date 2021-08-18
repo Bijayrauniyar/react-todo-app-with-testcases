@@ -5,8 +5,7 @@
 # Highlight of a Project
 ### Functional Componnet
 ### React Hooks
-### Modular Code
-### Modularizing React Code
+### Modularized React Code
 ### Seprated Business Logic and Added Tests Cases for it
 
 
